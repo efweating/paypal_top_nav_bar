@@ -1,0 +1,41 @@
+
+html, body {
+	height: 100vh;
+}
+
+html {
+	background-color: #FFFFFF;
+	font-size: 100%;
+}
+
+head {
+	background-color: #FFFFFF;
+}
+
+a {
+	display: block;
+}
+
+.placeholder1 {
+	margin-left: 25px;
+	margin-top: center;
+}
+
+.placeholder2 {
+	margin-left: 25px;
+	margin-top: center;
+}
+
+.placeholder3 {
+	margin-left: 25px;
+	margin-top: center;
+}
+
+.placeholder4 {
+	margin-left: 25px;
+	margin-top: center;
+}
+
+body {
+    background-color: #FFFFFF;
+  }
