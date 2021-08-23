@@ -59,8 +59,13 @@ head {
 	display: block;
 }
 
-.dropdown:hover .dropbtn {
+/* .dropdown:hover .dropbtn {
 	background-color: blue;
+} */
+
+.dropbtn:hover {
+	border-color: #0070ba;
+	border-width: 4px;
 }
 
 .button1 {
